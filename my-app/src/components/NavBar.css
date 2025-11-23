@@ -1,0 +1,12 @@
+nav ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  padding: 0;
+} 
+nav ul li a {
+  color: var(--clr-primary);
+  text-decoration: none;
+  font-weight: bold;
+}
