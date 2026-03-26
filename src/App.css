@@ -10,3 +10,12 @@ a {
   text-decoration: none;
   font-weight: bold;
 }
+
+.schedule-header {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.set-list {
+  list-style-type: none;
+}
